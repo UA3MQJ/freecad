@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "freza-012",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "19.00 mm",
+    "Diameter": "12.00 mm",
+    "Flutes": "0",
+    "Length": "51.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "8.00 mm",
+    "SpindleDirection": "Forward"
+  },
+  "attribute": {}
+}
